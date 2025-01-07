@@ -37,7 +37,8 @@ nav p{
 nav a{
     margin-right: 15px;
     text-decoration: none;
-    color: rgb(3, 75, 51);
+    /*color: rgb(3, 75, 51);*/
+    color: #fff;
 }
 
 .container{
@@ -56,6 +57,7 @@ nav a{
 .sub-titulo{
     text-align: center;
     font-size: 30px;
+    padding: 10px 0;
 }
 
 .text-left{
@@ -73,11 +75,7 @@ nav a{
     box-shadow: 5px 0 10px #00000070;
 }
 
-.surgimento{
-    background-color: #ffebcd;
-}
-
-.morte{
+.background{
     background-color: #ffebcd;
 }
 
